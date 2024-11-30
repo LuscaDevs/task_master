@@ -4,6 +4,22 @@
 
 O **Task Master** é um aplicativo de gerenciamento de tarefas desenvolvido em **Flutter**. Ele permite ao usuário criar, editar, excluir e organizar tarefas com prazos, categorias e status. O aplicativo utiliza o **SQLite** para armazenar dados localmente e o **Firebase** para autenticação de usuários.
 
+## Integrante do grupo
+
+**Lucas dos Santos Silva** - RA 1282314493
+
+## Link para download do APK
+
+[https://drive.google.com/file/d/1GFembW8tTg6_SdHLvxJ4w6RC0KxY2DMQ/view?usp=sharing](https://)
+
+## Link para o PDF explicativo
+
+[https://drive.google.com/file/d/1odDFu1RZe03cq4BNZo0Luhobuo0nmB6d/view?usp=sharing](https://)
+
+## Link para o vídeo de apresentação
+
+[https://drive.google.com/file/d/1dssPJdVzevxne7MO1Yj1LvxSypHL_qxk/view?usp=sharing](https://)
+
 ## Funcionalidades
 
 - **Autenticação**: Permite login e cadastro de usuários através do Firebase.
