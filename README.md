@@ -8,17 +8,13 @@ O **Task Master** é um aplicativo de gerenciamento de tarefas desenvolvido em *
 
 **Lucas dos Santos Silva** - RA 1282314493
 
-## Link para download do APK
+## Links
 
-[https://drive.google.com/file/d/1GFembW8tTg6_SdHLvxJ4w6RC0KxY2DMQ/view?usp=sharing](https://)
+[Download APK](https://drive.google.com/file/d/1GFembW8tTg6_SdHLvxJ4w6RC0KxY2DMQ/view?usp=sharing)
 
-## Link para o PDF explicativo
+[PDF de apresentação](https://drive.google.com/file/d/1odDFu1RZe03cq4BNZo0Luhobuo0nmB6d/view?usp=sharing)
 
-[https://drive.google.com/file/d/1odDFu1RZe03cq4BNZo0Luhobuo0nmB6d/view?usp=sharing](https://)
-
-## Link para o vídeo de apresentação
-
-[https://drive.google.com/file/d/1dssPJdVzevxne7MO1Yj1LvxSypHL_qxk/view?usp=sharing](https://)
+[Vídeo explicativo](https://drive.google.com/file/d/1dssPJdVzevxne7MO1Yj1LvxSypHL_qxk/view?usp=sharing)
 
 ## Funcionalidades
 
