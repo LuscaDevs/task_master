@@ -14,7 +14,7 @@ O **Task Master** é um aplicativo de gerenciamento de tarefas desenvolvido em *
 
 [PDF de apresentação](https://drive.google.com/file/d/1odDFu1RZe03cq4BNZo0Luhobuo0nmB6d/view?usp=sharing)
 
-[Vídeo explicativo](https://drive.google.com/file/d/1dssPJdVzevxne7MO1Yj1LvxSypHL_qxk/view?usp=sharing)
+[Vídeo explicativo](https://drive.google.com/file/d/1LaM7fWjam6fWwNBtm-Of5sA2V-WSRT8V/view?usp=sharing)
 
 ## Funcionalidades
 
